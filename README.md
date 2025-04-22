@@ -13,5 +13,4 @@
 - ✅ Matplotlib 畫出 AI 最終走的最佳路徑
 
 ---輸入參數範例---
-
-
+![輸入範例](Input_parameter_examples.png)
