@@ -17,4 +17,4 @@
 
 ---執行範例---
 起點（綠點） → 路徑（虛線） → 終點（紅星）
-![path](./images/Figure.png)
+![path](./images/result.png)
