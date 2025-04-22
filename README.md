@@ -13,4 +13,8 @@
 - ✅ Matplotlib 畫出 AI 最終走的最佳路徑
 
 ---輸入參數範例---
-![輸入範例](Input_parameter_examples.png)
+![輸入範例](./images/Input_parameter_examples.png)
+
+---執行範例---
+起點（綠點） → 路徑（虛線） → 終點（紅星）
+![path](./images/Figure.png)
